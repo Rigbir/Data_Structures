@@ -1,0 +1,18 @@
+FIO: Brezin Marat
+Gender: male
+Group: 240401
+SelfNumber: 3
+Marks: 4 5 5 5 3 5 5 5 
+
+FIO: Makito Reyko
+Gender: female
+Group: 520602
+SelfNumber: 1
+Marks: 5 5 5 5 5 5 5 5 
+
+FIO: Vladislav Mironchik 
+Gender: male
+Group: 240401
+SelfNumber: 19
+Marks: 3 4 4 4 5 5 4 5 
+
